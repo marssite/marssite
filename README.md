@@ -66,24 +66,4 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
-<br/>  
-
-
-
-
-## Music 🤖 
-<div align="center"><img  src="https://spotify-github-profile.vercel.app/api/view?uid=x51av1zrrgkdz6uylp1wn4y3b&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
