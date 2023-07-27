@@ -9,7 +9,7 @@
 - 🔭 I’m currently working/studying  
   
 
-- 🌱 I’m currently learning PHP and MERN stack development  
+- 🌱 I’m currently studying Odoo, python development, and MERN stack development  
   
 
 - ⚡ Fun fact: I have a bearded dragon called Mushu.  
@@ -70,11 +70,6 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=marssite&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
 
 
 
